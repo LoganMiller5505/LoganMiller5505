@@ -55,6 +55,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 <br/>  
 
 # Future Plans
+- ☀️ Use developing frontend skills to update the [Solar Flare Detection Project](https://github.com/LoganMiller5505/auburnhacks24) so that the website integration properly displays the model predictions
 - 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs
 
 
