@@ -14,6 +14,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 - 🦅 Freshman at Auburn University
 - 🏈 I am currently working on making my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data) more accurate
 - 🌐 Improving my front end skillset by creating and continually updating my [Portfolio Website](https://loganmiller5505.github.io/)
+- 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
 
 # Skills
 
@@ -52,9 +53,6 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 </td></tr></table>  
 
 <br/>  
-
-
-# Contact
 
 # Future Plans
 - 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs
