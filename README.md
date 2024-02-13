@@ -13,7 +13,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 
 - 🦅 Freshman at Auburn University
 - 🏈 I am currently working on making my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data) more accurate
-- 🌐 Improving my front end skillset by creating and continually updating my [Portfolio Website]
+- 🌐 Improving my front end skillset by creating and continually updating my [Portfolio Website](https://loganmiller5505.github.io/)
 
 # Skills
 
