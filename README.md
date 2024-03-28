@@ -12,9 +12,15 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 # About Me!
 
 - 🦅 Freshman at Auburn University
-- 🏈 I am currently working on making my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data) more accurate
-- 🌐 Improving my front end skillset by creating and continually updating my [Portfolio Website](https://loganmiller5505.github.io/)
+- 🏙️ Originally from Cincinnati, Ohio
 - 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
+
+# Current Work
+
+- 🏈 Making my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data) using Tensorflow and Keras more accurate
+- 🤖 Working on documentation best practices by creating a [ReadTheDocs website](https://14365-programmer-documentation.readthedocs.io/en/latest/) covering my robotics experience
+- 📊 Gaining experience in RL with a small group through Auburn's Data Science Society and [implementing the ideas](https://github.com/LoganMiller5505/RL_DSSOC) we discuss
+- 🌐 Improving my front end skillset by updating my [Portfolio Website](https://loganmiller5505.github.io/) using experience from Auburn ACM's Web Development club
 
 # Skills
 
@@ -57,7 +63,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 
 # Future Plans
 - ☀️ Use developing frontend skills to update the [Solar Flare Detection Project](https://github.com/LoganMiller5505/auburnhacks24) so that the website integration properly displays the model predictions
-- 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs
+- 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs 
 
 
 <!--
