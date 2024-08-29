@@ -15,7 +15,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 - 🏙️ Originally from Cincinnati, Ohio
 - 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
 
-# Completed projects
+# Completed Projects
 
 - 🏈 Finished my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data), and eagerly waiting for the NFL season to begin to see how it performs!
 - 📊 Gained experience in RL with a small group through Auburn's Data Science Society and [implemented the ideas](https://github.com/LoganMiller5505/RL_DSSOC) we discussed
