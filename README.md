@@ -15,12 +15,21 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 - 🏙️ Originally from Cincinnati, Ohio
 - 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
 
-# Current Work
+# Completed projects
 
-- 🏈 Making my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data) using Tensorflow and Keras more accurate
-- 🤖 Working on documentation best practices by creating a [ReadTheDocs website](https://14365-programmer-documentation.readthedocs.io/en/latest/) covering my robotics experience
-- 📊 Gaining experience in RL with a small group through Auburn's Data Science Society and [implementing the ideas](https://github.com/LoganMiller5505/RL_DSSOC) we discuss
-- 🌐 Improving my front end skillset by updating my [Portfolio Website](https://loganmiller5505.github.io/) using experience from Auburn ACM's Web Development club
+- 🏈 Finished my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data), and eagerly waiting for the NFL season to begin to see how it performs!
+- 📊 Gained experience in RL with a small group through Auburn's Data Science Society and [implemented the ideas](https://github.com/LoganMiller5505/RL_DSSOC) we discussed
+- ☀️ Created a [Solar Flare Prediction](https://github.com/LoganMiller5505/auburnhacks24) application with a website during the Auburn Hacks 2024 event!
+
+# Ongoing Work
+
+- 🌐 Improving my front end skillset by updating my [Portfolio Website](https://loganmiller5505.github.io/) using experience from self-guided online courses
+- 🤖 Gaining experience in documentation best practices by creating a [ReadTheDocs website](https://14365-programmer-documentation.readthedocs.io/en/latest/) covering my robotics experience
+- 💻 Solving leetcode-style problems through Auburn ACM's Technical Interview Association and Competitive Programming Team
+
+# Future Plans
+- 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs to create unqiue playlists and listening experiences
+- 🔐 Create a customizable keyword-based password cracking application to raise awareness of the importance of password security, inspired by my experience building a similar script within the CyberFire event hosted by the Auburn Ethical Hacking Club and LANL
 
 # Skills
 
@@ -60,11 +69,6 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 </td></tr></table>  
 
 <br/>  
-
-# Future Plans
-- ☀️ Use developing frontend skills to update the [Solar Flare Detection Project](https://github.com/LoganMiller5505/auburnhacks24) so that the website integration properly displays the model predictions
-- 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs 
-
 
 <!--
 **LoganMiller5505/LoganMiller5505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
