@@ -11,7 +11,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 
 # About Me!
 
-- 🦅 Freshman at Auburn University
+- 🦅 Sophomore at Auburn University
 - 🏙️ Originally from Cincinnati, Ohio
 - 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
 
