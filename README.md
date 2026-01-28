@@ -11,7 +11,7 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 
 # About Me!
 
-- 🦅 Sophomore at Auburn University
+- 🦅 Junior at Auburn University
 - 🏙️ Originally from Cincinnati, Ohio
 - 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
 
@@ -21,38 +21,26 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 - 📊 Gained experience in RL with a small group through Auburn's Data Science Society and [implemented the ideas](https://github.com/LoganMiller5505/RL_DSSOC) we discussed
 - ☀️ Created a [Solar Flare Prediction](https://github.com/LoganMiller5505/auburnhacks24) application with a website during the Auburn Hacks 2024 event!
 
-# Ongoing Work
-
-- 🌐 Improving my front end skillset by updating my [Portfolio Website](https://loganmiller5505.github.io/) using experience from self-guided online courses
-- 🤖 Gaining experience in documentation best practices by creating a [ReadTheDocs website](https://14365-programmer-documentation.readthedocs.io/en/latest/) covering my robotics experience
-- 💻 Solving leetcode-style problems through Auburn ACM's Technical Interview Association and Competitive Programming Team
-
-# Future Plans
-- 🎵 Build an application that uses the Spotify API to produce new, smooth transitions between songs to create unqiue playlists and listening experiences
-- 🔐 Create a customizable keyword-based password cracking application to raise awareness of the importance of password security, inspired by my experience building a similar script within the CyberFire event hosted by the Auburn Ethical Hacking Club and LANL
-
 # Skills
 
 <table><tr><td valign="top" width="33%">
 
 ### Proficient With:  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="50" />  
- 
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50">
 </div>
 </td><td valign="top" width="33%">
 
 ### Experience In:
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Pandas" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Tensorflow" height="50" />  
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50">
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,9 +49,10 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 
 ### Currently Learning:
 <div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50">
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50">
 </div>
 
 </td></tr></table>  
