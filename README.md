@@ -9,67 +9,93 @@ U | | u     | | | |\| |  _ / \/ _ \/ <|  \| |>      \| |\/| |/  |_"_|  U | | u U
 
  ```
 
-# About Me!
+[![Website](https://img.shields.io/badge/lmiller.io-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://lmiller.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/loganmiller5505)
+[![Email](https://img.shields.io/badge/logan%40lmiller.io-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:logan@lmiller.io)
 
-- 🦅 Junior at Auburn University
-- 🏙️ Originally from Cincinnati, Ohio
-- 📧 Feel free to reach out to me via <a href="mailto:loganmiller5505@gmail.com">email</a>
-
-# Completed Projects
-
-- 🏈 Finished my [NFL Fantasy Points Prediction model](https://github.com/LoganMiller5505/nfl-data), and eagerly waiting for the NFL season to begin to see how it performs!
-- 📊 Gained experience in RL with a small group through Auburn's Data Science Society and [implemented the ideas](https://github.com/LoganMiller5505/RL_DSSOC) we discussed
-- ☀️ Created a [Solar Flare Prediction](https://github.com/LoganMiller5505/auburnhacks24) application with a website during the Auburn Hacks 2024 event!
-
-# Skills
-
-<table><tr><td valign="top" width="33%">
-
-### Proficient With:  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50">
-</div>
-</td><td valign="top" width="33%">
-
-### Experience In:
-<div align="center">  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50">
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Currently Learning:
-<div align="center">   
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50">
-</div>
-
-</td></tr></table>  
-
-<br/>  
+## About Me
 
 <!--
-**LoganMiller5505/LoganMiller5505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+TODO (Logan): 1-2 sentences in your own voice.
+The old README's "Junior at Auburn / originally from Cincinnati" line was the most
+human part of the page - this is where that goes. What you're into, what you like
+building, what you're looking for. Everything below is assembled fact; this bit isn't.
+Delete this comment when you've written it.
 -->
+
+- 🦅 Senior at **Auburn University** — B.S. Computer Science, Artificial Intelligence Engineering concentration, Honors Business minor (May 2027)
+- 📈 3.82 GPA · Honors College Member · Auburn Engineering Honors Circle (2025)
+- 🏙️ Loveland, OH
+- 📧 Reach me at [logan@lmiller.io](mailto:logan@lmiller.io)
+
+## Experience
+
+**Data Engineer Intern** — Medpace · *May 2026 – August 2026*
+
+One of four engineers building a company-wide source of truth that consolidates all
+active clinical trial data into Snowflake. Drove requirements-gathering with product and
+business stakeholders, built the dbt models implementing most of those requirements, and
+developed a Prefect orchestration pipeline (Python, Snowpark) that keeps the unified
+source current on a CRON schedule driven by a custom configuration table.
+
+**ALEC Team Student Verifier** — Auburn University RFID Lab · *April 2025 – Present*
+
+Review and verify 4,000+ supplier RFID tagging procedures for standards compliance on
+confidential client engagements, auditing peer validations to maintain data accuracy.
+
+## Featured Projects
+
+### 🪐 ExoQuery — NASA Exoplanet Data Agent
+[Live app](https://exoquery.streamlit.app) · [Repo](https://github.com/LoganMiller5505/exoplanet-agent)
+
+An LLM agent (Groq) with four purpose-built tools that answers natural-language questions
+over NASA Exoplanet Archive data — the model never writes raw SQL. Backed by a Neon
+Postgres warehouse populated by a GitHub Actions-scheduled daily ingestion pipeline that
+pulls 11 NASA tables and builds planet, system, and habitable-zone views. Deployed
+publicly on Streamlit.
+
+`Python` `Groq` `PostgreSQL` `GitHub Actions` `Streamlit`
+
+### 🖥️ Self-Hosted Media & Game Server Platform
+[Live status page](https://status.lmiller.io)
+
+Design, deploy, and operate a self-hosted platform on a single Debian box with
+ZFS-mirrored storage — 15+ containerized services behind a Caddy reverse proxy, serving
+up to a dozen concurrent users. Jellyfin with GPU transcoding, a VPN-isolated download
+stack, AdGuard Home for network-wide filtering, and Pterodactyl for game servers.
+
+Security and reliability are the interesting part: UFW default-deny with nothing but
+80/443 and game ports on the public internet, all admin access gated behind Tailscale,
+restic offsite backups, sanoid ZFS snapshotting, and a disaster-recovery procedure
+that's been validated for real by three power outages. I keep 9 written technical guides
+covering the install, hardening, and recovery procedures.
+
+`Debian` `Docker` `ZFS` `Caddy` `Tailscale` `UFW` `systemd` `restic`
+
+### 🎵 Spotify Genre Classification
+[Repo](https://github.com/LoganMiller5505/DataSciProject)
+
+Built a Random Forest classifier predicting genre from Spotify audio features across
+113K+ tracks. Training on all 114 raw genre labels overfit badly — 81.7% train vs. 25.4%
+test accuracy. Consolidating the labels into five broader supergenre categories and
+retraining lifted test accuracy to **59.5%**.
+
+`Python` `scikit-learn` `Pandas` `Matplotlib`
+
+### 🏈 NFL Fantasy Football Predictions Model
+[Repo](https://github.com/LoganMiller5505/nfl-data)
+
+Built and trained a solo model to predict NFL players' weekly fantasy point totals,
+achieving a Mean Absolute Error of ~7 points.
+
+`Python` `TensorFlow` `Pandas`
+
+## Skills
+
+| | |
+|---|---|
+| **Programming** | Python · SQL · Java · JavaScript · C · HTML/CSS |
+| **Data Engineering** | Snowflake · dbt · Prefect · Snowpark · PostgreSQL · Azure · Pandas · NumPy |
+| **Data Science / ML** | TensorFlow · Keras · scikit-learn · Matplotlib · Seaborn |
+| **AI Tooling** | Agentic workflows · LLM agents & harnesses |
+| **Infrastructure** | Docker · Linux · Git · GitHub Actions · Caddy · Tailscale · ZFS · systemd · Jupyter |
